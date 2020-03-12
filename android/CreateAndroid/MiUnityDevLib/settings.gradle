@@ -1,0 +1,2 @@
+rootProject.name='MiUnityDevLib'
+include ':app'
